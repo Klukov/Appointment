@@ -6,8 +6,8 @@ First iteration:
     1. Register with email verification
     2. Change password
     3. View all free appointments
-    3. Book an appointment
-    4. Cancel an appointment
+    4. Book an appointment
+    5. Cancel an appointment
 
 2. Officer
     1. Change password
